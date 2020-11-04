@@ -1,0 +1,14 @@
+{
+  "name": "node-scraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  }
+}
